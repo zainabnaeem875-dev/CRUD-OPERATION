@@ -1,0 +1,2751 @@
+[
+  {
+    "id": 1,
+    "brand": "Nike",
+    "name": "Classic Cotton T-Shirt",
+    "category": "Clothing",
+    "subcategory": "T-Shirts",
+    "price": 24.99,
+    "discount": 5,
+    "currency": "USD",
+    "description": "High quality classic cotton t-shirt by Nike, designed for everyday use.",
+    "rating": 4.1,
+    "reviews": 32,
+    "stock": 22,
+    "sku": "SKU-0001",
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "tags": [
+      "t-shirts",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 3,
+    "brand": "Puma",
+    "name": "Classic Cotton T-Shirt",
+    "category": "Clothing",
+    "subcategory": "T-Shirts",
+    "price": 22.99,
+    "discount": 15,
+    "currency": "USD",
+    "description": "High quality classic cotton t-shirt by Puma, designed for everyday use.",
+    "rating": 4.3,
+    "reviews": 46,
+    "stock": 36,
+    "sku": "SKU-0003",
+    "colors": [
+      "White",
+      "Blue"
+    ],
+    "tags": [
+      "t-shirts",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": true,
+    "isNew": false,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 4,
+    "brand": "Zara",
+    "name": "Classic Cotton T-Shirt",
+    "category": "Clothing",
+    "subcategory": "T-Shirts",
+    "price": 27.99,
+    "discount": 20,
+    "currency": "USD",
+    "description": "High quality classic cotton t-shirt by Zara, designed for everyday use.",
+    "rating": 4.4,
+    "reviews": 53,
+    "stock": 43,
+    "sku": "SKU-0004",
+    "colors": [
+      "Black",
+      "Silver"
+    ],
+    "tags": [
+      "t-shirts",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": true,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 5,
+    "brand": "H&M",
+    "name": "Classic Cotton T-Shirt",
+    "category": "Clothing",
+    "subcategory": "T-Shirts",
+    "price": 19.99,
+    "discount": 25,
+    "currency": "USD",
+    "description": "High quality classic cotton t-shirt by H&M, designed for everyday use.",
+    "rating": 4.5,
+    "reviews": 60,
+    "stock": 50,
+    "sku": "SKU-0005",
+    "colors": [
+      "Black",
+      "Gold"
+    ],
+    "tags": [
+      "t-shirts",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 6,
+    "brand": "Nike",
+    "name": "Premium Oversized Hoodie",
+    "category": "Clothing",
+    "subcategory": "Hoodies",
+    "price": 49.99,
+    "discount": 5,
+    "currency": "USD",
+    "description": "High quality premium oversized hoodie by Nike, designed for everyday use.",
+    "rating": 4.6,
+    "reviews": 67,
+    "stock": 57,
+    "sku": "SKU-0006",
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "tags": [
+      "hoodies",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": true,
+    "isNew": false,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 7,
+    "brand": "Adidas",
+    "name": "Premium Oversized Hoodie",
+    "category": "Clothing",
+    "subcategory": "Hoodies",
+    "price": 54.99,
+    "discount": 10,
+    "currency": "USD",
+    "description": "High quality premium oversized hoodie by Adidas, designed for everyday use.",
+    "rating": 4.7,
+    "reviews": 74,
+    "stock": 64,
+    "sku": "SKU-0007",
+    "colors": [
+      "Black",
+      "Grey",
+      "Red"
+    ],
+    "tags": [
+      "hoodies",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 8,
+    "brand": "Puma",
+    "name": "Premium Oversized Hoodie",
+    "category": "Clothing",
+    "subcategory": "Hoodies",
+    "price": 44.99,
+    "discount": 15,
+    "currency": "USD",
+    "description": "High quality premium oversized hoodie by Puma, designed for everyday use.",
+    "rating": 4.8,
+    "reviews": 81,
+    "stock": 71,
+    "sku": "SKU-0008",
+    "colors": [
+      "White",
+      "Blue"
+    ],
+    "tags": [
+      "hoodies",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": true,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 9,
+    "brand": "Zara",
+    "name": "Premium Oversized Hoodie",
+    "category": "Clothing",
+    "subcategory": "Hoodies",
+    "price": 59.99,
+    "discount": 20,
+    "currency": "USD",
+    "description": "High quality premium oversized hoodie by Zara, designed for everyday use.",
+    "rating": 4.9,
+    "reviews": 88,
+    "stock": 78,
+    "sku": "SKU-0009",
+    "colors": [
+      "Black",
+      "Silver"
+    ],
+    "tags": [
+      "hoodies",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": true,
+    "isNew": false,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 10,
+    "brand": "H&M",
+    "name": "Premium Oversized Hoodie",
+    "category": "Clothing",
+    "subcategory": "Hoodies",
+    "price": 39.99,
+    "discount": 25,
+    "currency": "USD",
+    "description": "High quality premium oversized hoodie by H&M, designed for everyday use.",
+    "rating": 4.0,
+    "reviews": 95,
+    "stock": 85,
+    "sku": "SKU-0010",
+    "colors": [
+      "Black",
+      "Gold"
+    ],
+    "tags": [
+      "hoodies",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 11,
+    "brand": "Nike",
+    "name": "Running Shoes",
+    "category": "Shoes",
+    "subcategory": "Running",
+    "price": 89.99,
+    "discount": 5,
+    "currency": "USD",
+    "description": "High quality running shoes by Nike, designed for everyday use.",
+    "rating": 4.1,
+    "reviews": 102,
+    "stock": 92,
+    "sku": "SKU-0011",
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "tags": [
+      "running",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ]
+  },
+  {
+    "id": 12,
+    "brand": "Adidas",
+    "name": "Running Shoes",
+    "category": "Shoes",
+    "subcategory": "Running",
+    "price": 94.99,
+    "discount": 10,
+    "currency": "USD",
+    "description": "High quality running shoes by Adidas, designed for everyday use.",
+    "rating": 4.2,
+    "reviews": 109,
+    "stock": 99,
+    "sku": "SKU-0012",
+    "colors": [
+      "Black",
+      "Grey",
+      "Red"
+    ],
+    "tags": [
+      "running",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": true,
+    "isNew": true,
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ]
+  },
+  {
+    "id": 13,
+    "brand": "Puma",
+    "name": "Running Shoes",
+    "category": "Shoes",
+    "subcategory": "Running",
+    "price": 79.99,
+    "discount": 15,
+    "currency": "USD",
+    "description": "High quality running shoes by Puma, designed for everyday use.",
+    "rating": 4.3,
+    "reviews": 116,
+    "stock": 20,
+    "sku": "SKU-0013",
+    "colors": [
+      "White",
+      "Blue"
+    ],
+    "tags": [
+      "running",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ]
+  },
+  {
+    "id": 14,
+    "brand": "New Balance",
+    "name": "Running Shoes",
+    "category": "Shoes",
+    "subcategory": "Running",
+    "price": 99.99,
+    "discount": 20,
+    "currency": "USD",
+    "description": "High quality running shoes by New Balance, designed for everyday use.",
+    "rating": 4.4,
+    "reviews": 123,
+    "stock": 27,
+    "sku": "SKU-0014",
+    "colors": [
+      "Black",
+      "Silver"
+    ],
+    "tags": [
+      "running",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ]
+  },
+  {
+    "id": 15,
+    "brand": "Reebok",
+    "name": "Running Shoes",
+    "category": "Shoes",
+    "subcategory": "Running",
+    "price": 74.99,
+    "discount": 25,
+    "currency": "USD",
+    "description": "High quality running shoes by Reebok, designed for everyday use.",
+    "rating": 4.5,
+    "reviews": 130,
+    "stock": 34,
+    "sku": "SKU-0015",
+    "colors": [
+      "Black",
+      "Gold"
+    ],
+    "tags": [
+      "running",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": true,
+    "isNew": false,
+    "sizes": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ]
+  },
+  {
+    "id": 16,
+    "brand": "Apple",
+    "name": "Wireless Earbuds",
+    "category": "Electronics",
+    "subcategory": "Earbuds",
+    "price": 129.99,
+    "discount": 5,
+    "currency": "USD",
+    "description": "High quality wireless earbuds by Apple, designed for everyday use.",
+    "rating": 4.6,
+    "reviews": 137,
+    "stock": 41,
+    "sku": "SKU-0016",
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "tags": [
+      "earbuds",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": true
+  },
+  {
+    "id": 17,
+    "brand": "Samsung",
+    "name": "Wireless Earbuds",
+    "category": "Electronics",
+    "subcategory": "Earbuds",
+    "price": 109.99,
+    "discount": 10,
+    "currency": "USD",
+    "description": "High quality wireless earbuds by Samsung, designed for everyday use.",
+    "rating": 4.7,
+    "reviews": 144,
+    "stock": 48,
+    "sku": "SKU-0017",
+    "colors": [
+      "Black",
+      "Grey",
+      "Red"
+    ],
+    "tags": [
+      "earbuds",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": false
+  },
+  {
+    "id": 18,
+    "brand": "Sony",
+    "name": "Wireless Earbuds",
+    "category": "Electronics",
+    "subcategory": "Earbuds",
+    "price": 119.99,
+    "discount": 15,
+    "currency": "USD",
+    "description": "High quality wireless earbuds by Sony, designed for everyday use.",
+    "rating": 4.8,
+    "reviews": 151,
+    "stock": 55,
+    "sku": "SKU-0018",
+    "colors": [
+      "White",
+      "Blue"
+    ],
+    "tags": [
+      "earbuds",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": true,
+    "isNew": false
+  },
+  {
+    "id": 19,
+    "brand": "JBL",
+    "name": "Wireless Earbuds",
+    "category": "Electronics",
+    "subcategory": "Earbuds",
+    "price": 79.99,
+    "discount": 20,
+    "currency": "USD",
+    "description": "High quality wireless earbuds by JBL, designed for everyday use.",
+    "rating": 4.9,
+    "reviews": 158,
+    "stock": 62,
+    "sku": "SKU-0019",
+    "colors": [
+      "Black",
+      "Silver"
+    ],
+    "tags": [
+      "earbuds",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": false
+  },
+  {
+    "id": 20,
+    "brand": "Anker",
+    "name": "Wireless Earbuds",
+    "category": "Electronics",
+    "subcategory": "Earbuds",
+    "price": 69.99,
+    "discount": 25,
+    "currency": "USD",
+    "description": "High quality wireless earbuds by Anker, designed for everyday use.",
+    "rating": 4.0,
+    "reviews": 165,
+    "stock": 69,
+    "sku": "SKU-0020",
+    "colors": [
+      "Black",
+      "Gold"
+    ],
+    "tags": [
+      "earbuds",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": true
+  },
+  {
+    "id": 21,
+    "brand": "Apple",
+    "name": "Smart Watch",
+    "category": "Electronics",
+    "subcategory": "Smart Watches",
+    "price": 399.99,
+    "discount": 5,
+    "currency": "USD",
+    "description": "High quality smart watch by Apple, designed for everyday use.",
+    "rating": 4.1,
+    "reviews": 172,
+    "stock": 76,
+    "sku": "SKU-0021",
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "tags": [
+      "smart watches",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": true,
+    "isNew": false
+  },
+  {
+    "id": 22,
+    "brand": "Samsung",
+    "name": "Smart Watch",
+    "category": "Electronics",
+    "subcategory": "Smart Watches",
+    "price": 249.99,
+    "discount": 10,
+    "currency": "USD",
+    "description": "High quality smart watch by Samsung, designed for everyday use.",
+    "rating": 4.2,
+    "reviews": 179,
+    "stock": 83,
+    "sku": "SKU-0022",
+    "colors": [
+      "Black",
+      "Grey",
+      "Red"
+    ],
+    "tags": [
+      "smart watches",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": false
+  },
+  {
+    "id": 23,
+    "brand": "Sony",
+    "name": "Smart Watch",
+    "category": "Electronics",
+    "subcategory": "Smart Watches",
+    "price": 199.99,
+    "discount": 15,
+    "currency": "USD",
+    "description": "High quality smart watch by Sony, designed for everyday use.",
+    "rating": 4.3,
+    "reviews": 186,
+    "stock": 90,
+    "sku": "SKU-0023",
+    "colors": [
+      "White",
+      "Blue"
+    ],
+    "tags": [
+      "smart watches",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": false
+  },
+  {
+    "id": 24,
+    "brand": "Amazfit",
+    "name": "Smart Watch",
+    "category": "Electronics",
+    "subcategory": "Smart Watches",
+    "price": 129.99,
+    "discount": 20,
+    "currency": "USD",
+    "description": "High quality smart watch by Amazfit, designed for everyday use.",
+    "rating": 4.4,
+    "reviews": 193,
+    "stock": 97,
+    "sku": "SKU-0024",
+    "colors": [
+      "Black",
+      "Silver"
+    ],
+    "tags": [
+      "smart watches",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": true,
+    "isNew": true
+  },
+  {
+    "id": 25,
+    "brand": "Huawei",
+    "name": "Smart Watch",
+    "category": "Electronics",
+    "subcategory": "Smart Watches",
+    "price": 179.99,
+    "discount": 25,
+    "currency": "USD",
+    "description": "High quality smart watch by Huawei, designed for everyday use.",
+    "rating": 4.5,
+    "reviews": 200,
+    "stock": 18,
+    "sku": "SKU-0025",
+    "colors": [
+      "Black",
+      "Gold"
+    ],
+    "tags": [
+      "smart watches",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": false
+  },
+  {
+    "id": 26,
+    "brand": "Nike",
+    "name": "Laptop Backpack",
+    "category": "Bags",
+    "subcategory": "Backpacks",
+    "price": 39.99,
+    "discount": 5,
+    "currency": "USD",
+    "description": "High quality laptop backpack by Nike, designed for everyday use.",
+    "rating": 4.6,
+    "reviews": 207,
+    "stock": 25,
+    "sku": "SKU-0026",
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "tags": [
+      "backpacks",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": false
+  },
+  {
+    "id": 27,
+    "brand": "Adidas",
+    "name": "Laptop Backpack",
+    "category": "Bags",
+    "subcategory": "Backpacks",
+    "price": 44.99,
+    "discount": 10,
+    "currency": "USD",
+    "description": "High quality laptop backpack by Adidas, designed for everyday use.",
+    "rating": 4.7,
+    "reviews": 214,
+    "stock": 32,
+    "sku": "SKU-0027",
+    "colors": [
+      "Black",
+      "Grey",
+      "Red"
+    ],
+    "tags": [
+      "backpacks",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": true,
+    "isNew": false
+  },
+  {
+    "id": 28,
+    "brand": "Puma",
+    "name": "Laptop Backpack",
+    "category": "Bags",
+    "subcategory": "Backpacks",
+    "price": 34.99,
+    "discount": 15,
+    "currency": "USD",
+    "description": "High quality laptop backpack by Puma, designed for everyday use.",
+    "rating": 4.8,
+    "reviews": 221,
+    "stock": 39,
+    "sku": "SKU-0028",
+    "colors": [
+      "White",
+      "Blue"
+    ],
+    "tags": [
+      "backpacks",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": true
+  },
+  {
+    "id": 29,
+    "brand": "HP",
+    "name": "Laptop Backpack",
+    "category": "Bags",
+    "subcategory": "Backpacks",
+    "price": 49.99,
+    "discount": 20,
+    "currency": "USD",
+    "description": "High quality laptop backpack by HP, designed for everyday use.",
+    "rating": 4.9,
+    "reviews": 228,
+    "stock": 46,
+    "sku": "SKU-0029",
+    "colors": [
+      "Black",
+      "Silver"
+    ],
+    "tags": [
+      "backpacks",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": false
+  },
+  {
+    "id": 30,
+    "brand": "Lenovo",
+    "name": "Laptop Backpack",
+    "category": "Bags",
+    "subcategory": "Backpacks",
+    "price": 42.99,
+    "discount": 25,
+    "currency": "USD",
+    "description": "High quality laptop backpack by Lenovo, designed for everyday use.",
+    "rating": 4.0,
+    "reviews": 235,
+    "stock": 53,
+    "sku": "SKU-0030",
+    "colors": [
+      "Black",
+      "Gold"
+    ],
+    "tags": [
+      "backpacks",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": true,
+    "isNew": false
+  },
+  {
+    "id": 31,
+    "brand": "JBL",
+    "name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "subcategory": "Speakers",
+    "price": 79.99,
+    "discount": 5,
+    "currency": "USD",
+    "description": "High quality bluetooth speaker by JBL, designed for everyday use.",
+    "rating": 4.1,
+    "reviews": 242,
+    "stock": 60,
+    "sku": "SKU-0031",
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "tags": [
+      "speakers",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": false
+  },
+  {
+    "id": 32,
+    "brand": "Sony",
+    "name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "subcategory": "Speakers",
+    "price": 99.99,
+    "discount": 10,
+    "currency": "USD",
+    "description": "High quality bluetooth speaker by Sony, designed for everyday use.",
+    "rating": 4.2,
+    "reviews": 249,
+    "stock": 67,
+    "sku": "SKU-0032",
+    "colors": [
+      "Black",
+      "Grey",
+      "Red"
+    ],
+    "tags": [
+      "speakers",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": true
+  },
+  {
+    "id": 33,
+    "brand": "Anker",
+    "name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "subcategory": "Speakers",
+    "price": 59.99,
+    "discount": 15,
+    "currency": "USD",
+    "description": "High quality bluetooth speaker by Anker, designed for everyday use.",
+    "rating": 4.3,
+    "reviews": 256,
+    "stock": 74,
+    "sku": "SKU-0033",
+    "colors": [
+      "White",
+      "Blue"
+    ],
+    "tags": [
+      "speakers",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": true,
+    "isNew": false
+  },
+  {
+    "id": 34,
+    "brand": "Samsung",
+    "name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "subcategory": "Speakers",
+    "price": 89.99,
+    "discount": 20,
+    "currency": "USD",
+    "description": "High quality bluetooth speaker by Samsung, designed for everyday use.",
+    "rating": 4.4,
+    "reviews": 263,
+    "stock": 81,
+    "sku": "SKU-0034",
+    "colors": [
+      "Black",
+      "Silver"
+    ],
+    "tags": [
+      "speakers",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": false
+  },
+  {
+    "id": 35,
+    "brand": "Bose",
+    "name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "subcategory": "Speakers",
+    "price": 149.99,
+    "discount": 25,
+    "currency": "USD",
+    "description": "High quality bluetooth speaker by Bose, designed for everyday use.",
+    "rating": 4.5,
+    "reviews": 270,
+    "stock": 88,
+    "sku": "SKU-0035",
+    "colors": [
+      "Black",
+      "Gold"
+    ],
+    "tags": [
+      "speakers",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": false
+  },
+  {
+    "id": 36,
+    "brand": "Logitech",
+    "name": "Gaming Mouse",
+    "category": "Accessories",
+    "subcategory": "Gaming",
+    "price": 39.99,
+    "discount": 5,
+    "currency": "USD",
+    "description": "High quality gaming mouse by Logitech, designed for everyday use.",
+    "rating": 4.6,
+    "reviews": 277,
+    "stock": 95,
+    "sku": "SKU-0036",
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "tags": [
+      "gaming",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": true,
+    "isNew": true
+  },
+  {
+    "id": 37,
+    "brand": "Razer",
+    "name": "Gaming Mouse",
+    "category": "Accessories",
+    "subcategory": "Gaming",
+    "price": 59.99,
+    "discount": 10,
+    "currency": "USD",
+    "description": "High quality gaming mouse by Razer, designed for everyday use.",
+    "rating": 4.7,
+    "reviews": 284,
+    "stock": 16,
+    "sku": "SKU-0037",
+    "colors": [
+      "Black",
+      "Grey",
+      "Red"
+    ],
+    "tags": [
+      "gaming",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": false
+  },
+  {
+    "id": 38,
+    "brand": "HP",
+    "name": "Gaming Mouse",
+    "category": "Accessories",
+    "subcategory": "Gaming",
+    "price": 29.99,
+    "discount": 15,
+    "currency": "USD",
+    "description": "High quality gaming mouse by HP, designed for everyday use.",
+    "rating": 4.8,
+    "reviews": 291,
+    "stock": 23,
+    "sku": "SKU-0038",
+    "colors": [
+      "White",
+      "Blue"
+    ],
+    "tags": [
+      "gaming",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": false
+  },
+  {
+    "id": 39,
+    "brand": "ASUS",
+    "name": "Gaming Mouse",
+    "category": "Accessories",
+    "subcategory": "Gaming",
+    "price": 49.99,
+    "discount": 20,
+    "currency": "USD",
+    "description": "High quality gaming mouse by ASUS, designed for everyday use.",
+    "rating": 4.9,
+    "reviews": 298,
+    "stock": 30,
+    "sku": "SKU-0039",
+    "colors": [
+      "Black",
+      "Silver"
+    ],
+    "tags": [
+      "gaming",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": true,
+    "isNew": false
+  },
+  {
+    "id": 40,
+    "brand": "Corsair",
+    "name": "Gaming Mouse",
+    "category": "Accessories",
+    "subcategory": "Gaming",
+    "price": 69.99,
+    "discount": 25,
+    "currency": "USD",
+    "description": "High quality gaming mouse by Corsair, designed for everyday use.",
+    "rating": 4.0,
+    "reviews": 305,
+    "stock": 37,
+    "sku": "SKU-0040",
+    "colors": [
+      "Black",
+      "Gold"
+    ],
+    "tags": [
+      "gaming",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": true
+  },
+  {
+    "id": 41,
+    "brand": "The Ordinary",
+    "name": "Face Serum",
+    "category": "Beauty",
+    "subcategory": "Skin Care",
+    "price": 14.99,
+    "discount": 5,
+    "currency": "USD",
+    "description": "High quality face serum by The Ordinary, designed for everyday use.",
+    "rating": 4.1,
+    "reviews": 312,
+    "stock": 44,
+    "sku": "SKU-0041",
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "tags": [
+      "skin care",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": false
+  },
+  {
+    "id": 42,
+    "brand": "L'Oréal",
+    "name": "Face Serum",
+    "category": "Beauty",
+    "subcategory": "Skin Care",
+    "price": 19.99,
+    "discount": 10,
+    "currency": "USD",
+    "description": "High quality face serum by L'Oréal, designed for everyday use.",
+    "rating": 4.2,
+    "reviews": 319,
+    "stock": 51,
+    "sku": "SKU-0042",
+    "colors": [
+      "Black",
+      "Grey",
+      "Red"
+    ],
+    "tags": [
+      "skin care",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": true,
+    "isNew": false
+  },
+  {
+    "id": 43,
+    "brand": "Maybelline",
+    "name": "Face Serum",
+    "category": "Beauty",
+    "subcategory": "Skin Care",
+    "price": 16.99,
+    "discount": 15,
+    "currency": "USD",
+    "description": "High quality face serum by Maybelline, designed for everyday use.",
+    "rating": 4.3,
+    "reviews": 326,
+    "stock": 58,
+    "sku": "SKU-0043",
+    "colors": [
+      "White",
+      "Blue"
+    ],
+    "tags": [
+      "skin care",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": false
+  },
+  {
+    "id": 44,
+    "brand": "NIVEA",
+    "name": "Face Serum",
+    "category": "Beauty",
+    "subcategory": "Skin Care",
+    "price": 12.99,
+    "discount": 20,
+    "currency": "USD",
+    "description": "High quality face serum by NIVEA, designed for everyday use.",
+    "rating": 4.4,
+    "reviews": 333,
+    "stock": 65,
+    "sku": "SKU-0044",
+    "colors": [
+      "Black",
+      "Silver"
+    ],
+    "tags": [
+      "skin care",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": true
+  },
+  {
+    "id": 45,
+    "brand": "MAC",
+    "name": "Face Serum",
+    "category": "Beauty",
+    "subcategory": "Skin Care",
+    "price": 29.99,
+    "discount": 25,
+    "currency": "USD",
+    "description": "High quality face serum by MAC, designed for everyday use.",
+    "rating": 4.5,
+    "reviews": 340,
+    "stock": 72,
+    "sku": "SKU-0045",
+    "colors": [
+      "Black",
+      "Gold"
+    ],
+    "tags": [
+      "skin care",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": true,
+    "isNew": false
+  },
+  {
+    "id": 46,
+    "brand": "Nike",
+    "name": "Travel Bag",
+    "category": "Bags",
+    "subcategory": "Travel",
+    "price": 59.99,
+    "discount": 5,
+    "currency": "USD",
+    "description": "High quality travel bag by Nike, designed for everyday use.",
+    "rating": 4.6,
+    "reviews": 347,
+    "stock": 79,
+    "sku": "SKU-0046",
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "tags": [
+      "travel",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": false
+  },
+  {
+    "id": 47,
+    "brand": "Adidas",
+    "name": "Travel Bag",
+    "category": "Bags",
+    "subcategory": "Travel",
+    "price": 64.99,
+    "discount": 10,
+    "currency": "USD",
+    "description": "High quality travel bag by Adidas, designed for everyday use.",
+    "rating": 4.7,
+    "reviews": 354,
+    "stock": 86,
+    "sku": "SKU-0047",
+    "colors": [
+      "Black",
+      "Grey",
+      "Red"
+    ],
+    "tags": [
+      "travel",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": false
+  },
+  {
+    "id": 48,
+    "brand": "Puma",
+    "name": "Travel Bag",
+    "category": "Bags",
+    "subcategory": "Travel",
+    "price": 49.99,
+    "discount": 15,
+    "currency": "USD",
+    "description": "High quality travel bag by Puma, designed for everyday use.",
+    "rating": 4.8,
+    "reviews": 361,
+    "stock": 93,
+    "sku": "SKU-0048",
+    "colors": [
+      "White",
+      "Blue"
+    ],
+    "tags": [
+      "travel",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": true,
+    "isNew": true
+  },
+  {
+    "id": 49,
+    "brand": "Zara",
+    "name": "Travel Bag",
+    "category": "Bags",
+    "subcategory": "Travel",
+    "price": 69.99,
+    "discount": 20,
+    "currency": "USD",
+    "description": "High quality travel bag by Zara, designed for everyday use.",
+    "rating": 4.9,
+    "reviews": 368,
+    "stock": 100,
+    "sku": "SKU-0049",
+    "colors": [
+      "Black",
+      "Silver"
+    ],
+    "tags": [
+      "travel",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": false
+  },
+  {
+    "id": 50,
+    "brand": "H&M",
+    "name": "Travel Bag",
+    "category": "Bags",
+    "subcategory": "Travel",
+    "price": 44.99,
+    "discount": 25,
+    "currency": "USD",
+    "description": "High quality travel bag by H&M, designed for everyday use.",
+    "rating": 4.0,
+    "reviews": 375,
+    "stock": 21,
+    "sku": "SKU-0050",
+    "colors": [
+      "Black",
+      "Gold"
+    ],
+    "tags": [
+      "travel",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": false
+  },
+  {
+    "id": 51,
+    "brand": "Nike",
+    "name": "Sports Water Bottle",
+    "category": "Sports & Fitness",
+    "subcategory": "Water Bottles",
+    "price": 19.99,
+    "discount": 5,
+    "currency": "USD",
+    "description": "High quality sports water bottle by Nike, designed for everyday use.",
+    "rating": 4.1,
+    "reviews": 382,
+    "stock": 28,
+    "sku": "SKU-0051",
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "tags": [
+      "water bottles",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": true,
+    "isNew": false
+  },
+  {
+    "id": 52,
+    "brand": "Adidas",
+    "name": "Sports Water Bottle",
+    "category": "Sports & Fitness",
+    "subcategory": "Water Bottles",
+    "price": 21.99,
+    "discount": 10,
+    "currency": "USD",
+    "description": "High quality sports water bottle by Adidas, designed for everyday use.",
+    "rating": 4.2,
+    "reviews": 389,
+    "stock": 35,
+    "sku": "SKU-0052",
+    "colors": [
+      "Black",
+      "Grey",
+      "Red"
+    ],
+    "tags": [
+      "water bottles",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": true
+  },
+  {
+    "id": 53,
+    "brand": "Puma",
+    "name": "Sports Water Bottle",
+    "category": "Sports & Fitness",
+    "subcategory": "Water Bottles",
+    "price": 17.99,
+    "discount": 15,
+    "currency": "USD",
+    "description": "High quality sports water bottle by Puma, designed for everyday use.",
+    "rating": 4.3,
+    "reviews": 396,
+    "stock": 42,
+    "sku": "SKU-0053",
+    "colors": [
+      "White",
+      "Blue"
+    ],
+    "tags": [
+      "water bottles",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": false
+  },
+  {
+    "id": 54,
+    "brand": "Under Armour",
+    "name": "Sports Water Bottle",
+    "category": "Sports & Fitness",
+    "subcategory": "Water Bottles",
+    "price": 24.99,
+    "discount": 20,
+    "currency": "USD",
+    "description": "High quality sports water bottle by Under Armour, designed for everyday use.",
+    "rating": 4.4,
+    "reviews": 403,
+    "stock": 49,
+    "sku": "SKU-0054",
+    "colors": [
+      "Black",
+      "Silver"
+    ],
+    "tags": [
+      "water bottles",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": true,
+    "isNew": false
+  },
+  {
+    "id": 55,
+    "brand": "Reebok",
+    "name": "Sports Water Bottle",
+    "category": "Sports & Fitness",
+    "subcategory": "Water Bottles",
+    "price": 18.99,
+    "discount": 25,
+    "currency": "USD",
+    "description": "High quality sports water bottle by Reebok, designed for everyday use.",
+    "rating": 4.5,
+    "reviews": 410,
+    "stock": 56,
+    "sku": "SKU-0055",
+    "colors": [
+      "Black",
+      "Gold"
+    ],
+    "tags": [
+      "water bottles",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": false
+  },
+  {
+    "id": 56,
+    "brand": "Fossil",
+    "name": "Classic Leather Watch",
+    "category": "Watches",
+    "subcategory": "Analog",
+    "price": 129.99,
+    "discount": 5,
+    "currency": "USD",
+    "description": "High quality classic leather watch by Fossil, designed for everyday use.",
+    "rating": 4.6,
+    "reviews": 417,
+    "stock": 63,
+    "sku": "SKU-0056",
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "tags": [
+      "analog",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": true
+  },
+  {
+    "id": 57,
+    "brand": "Casio",
+    "name": "Classic Leather Watch",
+    "category": "Watches",
+    "subcategory": "Analog",
+    "price": 89.99,
+    "discount": 10,
+    "currency": "USD",
+    "description": "High quality classic leather watch by Casio, designed for everyday use.",
+    "rating": 4.7,
+    "reviews": 424,
+    "stock": 70,
+    "sku": "SKU-0057",
+    "colors": [
+      "Black",
+      "Grey",
+      "Red"
+    ],
+    "tags": [
+      "analog",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": true,
+    "isNew": false
+  },
+  {
+    "id": 58,
+    "brand": "Titan",
+    "name": "Classic Leather Watch",
+    "category": "Watches",
+    "subcategory": "Analog",
+    "price": 109.99,
+    "discount": 15,
+    "currency": "USD",
+    "description": "High quality classic leather watch by Titan, designed for everyday use.",
+    "rating": 4.8,
+    "reviews": 431,
+    "stock": 77,
+    "sku": "SKU-0058",
+    "colors": [
+      "White",
+      "Blue"
+    ],
+    "tags": [
+      "analog",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": false
+  },
+  {
+    "id": 59,
+    "brand": "Seiko",
+    "name": "Classic Leather Watch",
+    "category": "Watches",
+    "subcategory": "Analog",
+    "price": 199.99,
+    "discount": 20,
+    "currency": "USD",
+    "description": "High quality classic leather watch by Seiko, designed for everyday use.",
+    "rating": 4.9,
+    "reviews": 438,
+    "stock": 84,
+    "sku": "SKU-0059",
+    "colors": [
+      "Black",
+      "Silver"
+    ],
+    "tags": [
+      "analog",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": false
+  },
+  {
+    "id": 60,
+    "brand": "Timex",
+    "name": "Classic Leather Watch",
+    "category": "Watches",
+    "subcategory": "Analog",
+    "price": 79.99,
+    "discount": 25,
+    "currency": "USD",
+    "description": "High quality classic leather watch by Timex, designed for everyday use.",
+    "rating": 4.0,
+    "reviews": 445,
+    "stock": 91,
+    "sku": "SKU-0060",
+    "colors": [
+      "Black",
+      "Gold"
+    ],
+    "tags": [
+      "analog",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": true,
+    "isNew": true
+  },
+  {
+    "id": 61,
+    "brand": "Logitech",
+    "name": "Wireless Keyboard",
+    "category": "Accessories",
+    "subcategory": "Keyboards",
+    "price": 49.99,
+    "discount": 5,
+    "currency": "USD",
+    "description": "High quality wireless keyboard by Logitech, designed for everyday use.",
+    "rating": 4.1,
+    "reviews": 452,
+    "stock": 98,
+    "sku": "SKU-0061",
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "tags": [
+      "keyboards",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": false
+  },
+  {
+    "id": 62,
+    "brand": "HP",
+    "name": "Wireless Keyboard",
+    "category": "Accessories",
+    "subcategory": "Keyboards",
+    "price": 39.99,
+    "discount": 10,
+    "currency": "USD",
+    "description": "High quality wireless keyboard by HP, designed for everyday use.",
+    "rating": 4.2,
+    "reviews": 459,
+    "stock": 19,
+    "sku": "SKU-0062",
+    "colors": [
+      "Black",
+      "Grey",
+      "Red"
+    ],
+    "tags": [
+      "keyboards",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": false
+  },
+  {
+    "id": 63,
+    "brand": "Dell",
+    "name": "Wireless Keyboard",
+    "category": "Accessories",
+    "subcategory": "Keyboards",
+    "price": 44.99,
+    "discount": 15,
+    "currency": "USD",
+    "description": "High quality wireless keyboard by Dell, designed for everyday use.",
+    "rating": 4.3,
+    "reviews": 466,
+    "stock": 26,
+    "sku": "SKU-0063",
+    "colors": [
+      "White",
+      "Blue"
+    ],
+    "tags": [
+      "keyboards",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": true,
+    "isNew": false
+  },
+  {
+    "id": 64,
+    "brand": "Lenovo",
+    "name": "Wireless Keyboard",
+    "category": "Accessories",
+    "subcategory": "Keyboards",
+    "price": 42.99,
+    "discount": 20,
+    "currency": "USD",
+    "description": "High quality wireless keyboard by Lenovo, designed for everyday use.",
+    "rating": 4.4,
+    "reviews": 473,
+    "stock": 33,
+    "sku": "SKU-0064",
+    "colors": [
+      "Black",
+      "Silver"
+    ],
+    "tags": [
+      "keyboards",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": true
+  },
+  {
+    "id": 65,
+    "brand": "Microsoft",
+    "name": "Wireless Keyboard",
+    "category": "Accessories",
+    "subcategory": "Keyboards",
+    "price": 59.99,
+    "discount": 25,
+    "currency": "USD",
+    "description": "High quality wireless keyboard by Microsoft, designed for everyday use.",
+    "rating": 4.5,
+    "reviews": 480,
+    "stock": 40,
+    "sku": "SKU-0065",
+    "colors": [
+      "Black",
+      "Gold"
+    ],
+    "tags": [
+      "keyboards",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": false
+  },
+  {
+    "id": 66,
+    "brand": "Levi's",
+    "name": "Slim Fit Jeans",
+    "category": "Clothing",
+    "subcategory": "Jeans",
+    "price": 59.99,
+    "discount": 5,
+    "currency": "USD",
+    "description": "High quality slim fit jeans by Levi's, designed for everyday use.",
+    "rating": 4.6,
+    "reviews": 487,
+    "stock": 47,
+    "sku": "SKU-0066",
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "tags": [
+      "jeans",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": true,
+    "isNew": false,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 67,
+    "brand": "Zara",
+    "name": "Slim Fit Jeans",
+    "category": "Clothing",
+    "subcategory": "Jeans",
+    "price": 54.99,
+    "discount": 10,
+    "currency": "USD",
+    "description": "High quality slim fit jeans by Zara, designed for everyday use.",
+    "rating": 4.7,
+    "reviews": 494,
+    "stock": 54,
+    "sku": "SKU-0067",
+    "colors": [
+      "Black",
+      "Grey",
+      "Red"
+    ],
+    "tags": [
+      "jeans",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 68,
+    "brand": "H&M",
+    "name": "Slim Fit Jeans",
+    "category": "Clothing",
+    "subcategory": "Jeans",
+    "price": 39.99,
+    "discount": 15,
+    "currency": "USD",
+    "description": "High quality slim fit jeans by H&M, designed for everyday use.",
+    "rating": 4.8,
+    "reviews": 501,
+    "stock": 61,
+    "sku": "SKU-0068",
+    "colors": [
+      "White",
+      "Blue"
+    ],
+    "tags": [
+      "jeans",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": true,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 69,
+    "brand": "Puma",
+    "name": "Slim Fit Jeans",
+    "category": "Clothing",
+    "subcategory": "Jeans",
+    "price": 49.99,
+    "discount": 20,
+    "currency": "USD",
+    "description": "High quality slim fit jeans by Puma, designed for everyday use.",
+    "rating": 4.9,
+    "reviews": 508,
+    "stock": 68,
+    "sku": "SKU-0069",
+    "colors": [
+      "Black",
+      "Silver"
+    ],
+    "tags": [
+      "jeans",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": true,
+    "isNew": false,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 70,
+    "brand": "Adidas",
+    "name": "Slim Fit Jeans",
+    "category": "Clothing",
+    "subcategory": "Jeans",
+    "price": 44.99,
+    "discount": 25,
+    "currency": "USD",
+    "description": "High quality slim fit jeans by Adidas, designed for everyday use.",
+    "rating": 4.0,
+    "reviews": 515,
+    "stock": 75,
+    "sku": "SKU-0070",
+    "colors": [
+      "Black",
+      "Gold"
+    ],
+    "tags": [
+      "jeans",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": false,
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ]
+  },
+  {
+    "id": 71,
+    "brand": "Zara",
+    "name": "Leather Crossbody Bag",
+    "category": "Bags",
+    "subcategory": "Crossbody",
+    "price": 69.99,
+    "discount": 5,
+    "currency": "USD",
+    "description": "High quality leather crossbody bag by Zara, designed for everyday use.",
+    "rating": 4.1,
+    "reviews": 522,
+    "stock": 82,
+    "sku": "SKU-0071",
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "tags": [
+      "crossbody",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": false
+  },
+  {
+    "id": 72,
+    "brand": "H&M",
+    "name": "Leather Crossbody Bag",
+    "category": "Bags",
+    "subcategory": "Crossbody",
+    "price": 49.99,
+    "discount": 10,
+    "currency": "USD",
+    "description": "High quality leather crossbody bag by H&M, designed for everyday use.",
+    "rating": 4.2,
+    "reviews": 529,
+    "stock": 89,
+    "sku": "SKU-0072",
+    "colors": [
+      "Black",
+      "Grey",
+      "Red"
+    ],
+    "tags": [
+      "crossbody",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": true,
+    "isNew": true
+  },
+  {
+    "id": 73,
+    "brand": "Michael Kors",
+    "name": "Leather Crossbody Bag",
+    "category": "Bags",
+    "subcategory": "Crossbody",
+    "price": 149.99,
+    "discount": 15,
+    "currency": "USD",
+    "description": "High quality leather crossbody bag by Michael Kors, designed for everyday use.",
+    "rating": 4.3,
+    "reviews": 536,
+    "stock": 96,
+    "sku": "SKU-0073",
+    "colors": [
+      "White",
+      "Blue"
+    ],
+    "tags": [
+      "crossbody",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": false
+  },
+  {
+    "id": 74,
+    "brand": "Coach",
+    "name": "Leather Crossbody Bag",
+    "category": "Bags",
+    "subcategory": "Crossbody",
+    "price": 199.99,
+    "discount": 20,
+    "currency": "USD",
+    "description": "High quality leather crossbody bag by Coach, designed for everyday use.",
+    "rating": 4.4,
+    "reviews": 543,
+    "stock": 17,
+    "sku": "SKU-0074",
+    "colors": [
+      "Black",
+      "Silver"
+    ],
+    "tags": [
+      "crossbody",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": false
+  },
+  {
+    "id": 75,
+    "brand": "Fossil",
+    "name": "Leather Crossbody Bag",
+    "category": "Bags",
+    "subcategory": "Crossbody",
+    "price": 119.99,
+    "discount": 25,
+    "currency": "USD",
+    "description": "High quality leather crossbody bag by Fossil, designed for everyday use.",
+    "rating": 4.5,
+    "reviews": 550,
+    "stock": 24,
+    "sku": "SKU-0075",
+    "colors": [
+      "Black",
+      "Gold"
+    ],
+    "tags": [
+      "crossbody",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": true,
+    "isNew": false
+  },
+  {
+    "id": 76,
+    "brand": "Anker",
+    "name": "Portable Power Bank",
+    "category": "Electronics",
+    "subcategory": "Power Banks",
+    "price": 39.99,
+    "discount": 5,
+    "currency": "USD",
+    "description": "High quality portable power bank by Anker, designed for everyday use.",
+    "rating": 4.6,
+    "reviews": 557,
+    "stock": 31,
+    "sku": "SKU-0076",
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "tags": [
+      "power banks",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": true
+  },
+  {
+    "id": 77,
+    "brand": "Samsung",
+    "name": "Portable Power Bank",
+    "category": "Electronics",
+    "subcategory": "Power Banks",
+    "price": 44.99,
+    "discount": 10,
+    "currency": "USD",
+    "description": "High quality portable power bank by Samsung, designed for everyday use.",
+    "rating": 4.7,
+    "reviews": 564,
+    "stock": 38,
+    "sku": "SKU-0077",
+    "colors": [
+      "Black",
+      "Grey",
+      "Red"
+    ],
+    "tags": [
+      "power banks",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": false
+  },
+  {
+    "id": 78,
+    "brand": "Xiaomi",
+    "name": "Portable Power Bank",
+    "category": "Electronics",
+    "subcategory": "Power Banks",
+    "price": 29.99,
+    "discount": 15,
+    "currency": "USD",
+    "description": "High quality portable power bank by Xiaomi, designed for everyday use.",
+    "rating": 4.8,
+    "reviews": 571,
+    "stock": 45,
+    "sku": "SKU-0078",
+    "colors": [
+      "White",
+      "Blue"
+    ],
+    "tags": [
+      "power banks",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": true,
+    "isNew": false
+  },
+  {
+    "id": 79,
+    "brand": "JBL",
+    "name": "Portable Power Bank",
+    "category": "Electronics",
+    "subcategory": "Power Banks",
+    "price": 49.99,
+    "discount": 20,
+    "currency": "USD",
+    "description": "High quality portable power bank by JBL, designed for everyday use.",
+    "rating": 4.9,
+    "reviews": 578,
+    "stock": 52,
+    "sku": "SKU-0079",
+    "colors": [
+      "Black",
+      "Silver"
+    ],
+    "tags": [
+      "power banks",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": false
+  },
+  {
+    "id": 80,
+    "brand": "Belkin",
+    "name": "Portable Power Bank",
+    "category": "Electronics",
+    "subcategory": "Power Banks",
+    "price": 34.99,
+    "discount": 25,
+    "currency": "USD",
+    "description": "High quality portable power bank by Belkin, designed for everyday use.",
+    "rating": 4.0,
+    "reviews": 585,
+    "stock": 59,
+    "sku": "SKU-0080",
+    "colors": [
+      "Black",
+      "Gold"
+    ],
+    "tags": [
+      "power banks",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": true
+  },
+  {
+    "id": 81,
+    "brand": "Razer",
+    "name": "Gaming Headset",
+    "category": "Electronics",
+    "subcategory": "Headsets",
+    "price": 89.99,
+    "discount": 5,
+    "currency": "USD",
+    "description": "High quality gaming headset by Razer, designed for everyday use.",
+    "rating": 4.1,
+    "reviews": 592,
+    "stock": 66,
+    "sku": "SKU-0081",
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "tags": [
+      "headsets",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": true,
+    "isNew": false
+  },
+  {
+    "id": 82,
+    "brand": "Logitech",
+    "name": "Gaming Headset",
+    "category": "Electronics",
+    "subcategory": "Headsets",
+    "price": 79.99,
+    "discount": 10,
+    "currency": "USD",
+    "description": "High quality gaming headset by Logitech, designed for everyday use.",
+    "rating": 4.2,
+    "reviews": 599,
+    "stock": 73,
+    "sku": "SKU-0082",
+    "colors": [
+      "Black",
+      "Grey",
+      "Red"
+    ],
+    "tags": [
+      "headsets",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": false
+  },
+  {
+    "id": 83,
+    "brand": "Sony",
+    "name": "Gaming Headset",
+    "category": "Electronics",
+    "subcategory": "Headsets",
+    "price": 109.99,
+    "discount": 15,
+    "currency": "USD",
+    "description": "High quality gaming headset by Sony, designed for everyday use.",
+    "rating": 4.3,
+    "reviews": 606,
+    "stock": 80,
+    "sku": "SKU-0083",
+    "colors": [
+      "White",
+      "Blue"
+    ],
+    "tags": [
+      "headsets",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": false
+  },
+  {
+    "id": 84,
+    "brand": "JBL",
+    "name": "Gaming Headset",
+    "category": "Electronics",
+    "subcategory": "Headsets",
+    "price": 69.99,
+    "discount": 20,
+    "currency": "USD",
+    "description": "High quality gaming headset by JBL, designed for everyday use.",
+    "rating": 4.4,
+    "reviews": 613,
+    "stock": 87,
+    "sku": "SKU-0084",
+    "colors": [
+      "Black",
+      "Silver"
+    ],
+    "tags": [
+      "headsets",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": true,
+    "isNew": true
+  },
+  {
+    "id": 85,
+    "brand": "Corsair",
+    "name": "Gaming Headset",
+    "category": "Electronics",
+    "subcategory": "Headsets",
+    "price": 99.99,
+    "discount": 25,
+    "currency": "USD",
+    "description": "High quality gaming headset by Corsair, designed for everyday use.",
+    "rating": 4.5,
+    "reviews": 620,
+    "stock": 94,
+    "sku": "SKU-0085",
+    "colors": [
+      "Black",
+      "Gold"
+    ],
+    "tags": [
+      "headsets",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": false
+  },
+  {
+    "id": 86,
+    "brand": "Nike",
+    "name": "Yoga Mat",
+    "category": "Sports & Fitness",
+    "subcategory": "Yoga",
+    "price": 29.99,
+    "discount": 5,
+    "currency": "USD",
+    "description": "High quality yoga mat by Nike, designed for everyday use.",
+    "rating": 4.6,
+    "reviews": 627,
+    "stock": 15,
+    "sku": "SKU-0086",
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "tags": [
+      "yoga",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": false
+  },
+  {
+    "id": 87,
+    "brand": "Adidas",
+    "name": "Yoga Mat",
+    "category": "Sports & Fitness",
+    "subcategory": "Yoga",
+    "price": 24.99,
+    "discount": 10,
+    "currency": "USD",
+    "description": "High quality yoga mat by Adidas, designed for everyday use.",
+    "rating": 4.7,
+    "reviews": 634,
+    "stock": 22,
+    "sku": "SKU-0087",
+    "colors": [
+      "Black",
+      "Grey",
+      "Red"
+    ],
+    "tags": [
+      "yoga",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": true,
+    "isNew": false
+  },
+  {
+    "id": 88,
+    "brand": "Puma",
+    "name": "Yoga Mat",
+    "category": "Sports & Fitness",
+    "subcategory": "Yoga",
+    "price": 21.99,
+    "discount": 15,
+    "currency": "USD",
+    "description": "High quality yoga mat by Puma, designed for everyday use.",
+    "rating": 4.8,
+    "reviews": 641,
+    "stock": 29,
+    "sku": "SKU-0088",
+    "colors": [
+      "White",
+      "Blue"
+    ],
+    "tags": [
+      "yoga",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": true
+  },
+  {
+    "id": 89,
+    "brand": "Reebok",
+    "name": "Yoga Mat",
+    "category": "Sports & Fitness",
+    "subcategory": "Yoga",
+    "price": 27.99,
+    "discount": 20,
+    "currency": "USD",
+    "description": "High quality yoga mat by Reebok, designed for everyday use.",
+    "rating": 4.9,
+    "reviews": 648,
+    "stock": 36,
+    "sku": "SKU-0089",
+    "colors": [
+      "Black",
+      "Silver"
+    ],
+    "tags": [
+      "yoga",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": false
+  },
+  {
+    "id": 90,
+    "brand": "Under Armour",
+    "name": "Yoga Mat",
+    "category": "Sports & Fitness",
+    "subcategory": "Yoga",
+    "price": 34.99,
+    "discount": 25,
+    "currency": "USD",
+    "description": "High quality yoga mat by Under Armour, designed for everyday use.",
+    "rating": 4.0,
+    "reviews": 655,
+    "stock": 43,
+    "sku": "SKU-0090",
+    "colors": [
+      "Black",
+      "Gold"
+    ],
+    "tags": [
+      "yoga",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": true,
+    "isNew": false
+  },
+  {
+    "id": 91,
+    "brand": "Dell",
+    "name": "Laptop Sleeve",
+    "category": "Accessories",
+    "subcategory": "Laptop Accessories",
+    "price": 24.99,
+    "discount": 5,
+    "currency": "USD",
+    "description": "High quality laptop sleeve by Dell, designed for everyday use.",
+    "rating": 4.1,
+    "reviews": 662,
+    "stock": 50,
+    "sku": "SKU-0091",
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "tags": [
+      "laptop accessories",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": false
+  },
+  {
+    "id": 92,
+    "brand": "HP",
+    "name": "Laptop Sleeve",
+    "category": "Accessories",
+    "subcategory": "Laptop Accessories",
+    "price": 22.99,
+    "discount": 10,
+    "currency": "USD",
+    "description": "High quality laptop sleeve by HP, designed for everyday use.",
+    "rating": 4.2,
+    "reviews": 669,
+    "stock": 57,
+    "sku": "SKU-0092",
+    "colors": [
+      "Black",
+      "Grey",
+      "Red"
+    ],
+    "tags": [
+      "laptop accessories",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": true
+  },
+  {
+    "id": 93,
+    "brand": "Lenovo",
+    "name": "Laptop Sleeve",
+    "category": "Accessories",
+    "subcategory": "Laptop Accessories",
+    "price": 26.99,
+    "discount": 15,
+    "currency": "USD",
+    "description": "High quality laptop sleeve by Lenovo, designed for everyday use.",
+    "rating": 4.3,
+    "reviews": 676,
+    "stock": 64,
+    "sku": "SKU-0093",
+    "colors": [
+      "White",
+      "Blue"
+    ],
+    "tags": [
+      "laptop accessories",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": true,
+    "isNew": false
+  },
+  {
+    "id": 94,
+    "brand": "ASUS",
+    "name": "Laptop Sleeve",
+    "category": "Accessories",
+    "subcategory": "Laptop Accessories",
+    "price": 29.99,
+    "discount": 20,
+    "currency": "USD",
+    "description": "High quality laptop sleeve by ASUS, designed for everyday use.",
+    "rating": 4.4,
+    "reviews": 683,
+    "stock": 71,
+    "sku": "SKU-0094",
+    "colors": [
+      "Black",
+      "Silver"
+    ],
+    "tags": [
+      "laptop accessories",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": false
+  },
+  {
+    "id": 95,
+    "brand": "Apple",
+    "name": "Laptop Sleeve",
+    "category": "Accessories",
+    "subcategory": "Laptop Accessories",
+    "price": 39.99,
+    "discount": 25,
+    "currency": "USD",
+    "description": "High quality laptop sleeve by Apple, designed for everyday use.",
+    "rating": 4.5,
+    "reviews": 690,
+    "stock": 78,
+    "sku": "SKU-0095",
+    "colors": [
+      "Black",
+      "Gold"
+    ],
+    "tags": [
+      "laptop accessories",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": false
+  },
+  {
+    "id": 96,
+    "brand": "IKEA",
+    "name": "Ceramic Coffee Mug",
+    "category": "Home & Living",
+    "subcategory": "Kitchen",
+    "price": 9.99,
+    "discount": 5,
+    "currency": "USD",
+    "description": "High quality ceramic coffee mug by IKEA, designed for everyday use.",
+    "rating": 4.6,
+    "reviews": 697,
+    "stock": 85,
+    "sku": "SKU-0096",
+    "colors": [
+      "Black",
+      "White",
+      "Blue"
+    ],
+    "tags": [
+      "kitchen",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": true,
+    "isNew": true
+  },
+  {
+    "id": 97,
+    "brand": "Zara Home",
+    "name": "Ceramic Coffee Mug",
+    "category": "Home & Living",
+    "subcategory": "Kitchen",
+    "price": 12.99,
+    "discount": 10,
+    "currency": "USD",
+    "description": "High quality ceramic coffee mug by Zara Home, designed for everyday use.",
+    "rating": 4.7,
+    "reviews": 704,
+    "stock": 92,
+    "sku": "SKU-0097",
+    "colors": [
+      "Black",
+      "Grey",
+      "Red"
+    ],
+    "tags": [
+      "kitchen",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": false
+  },
+  {
+    "id": 98,
+    "brand": "H&M Home",
+    "name": "Ceramic Coffee Mug",
+    "category": "Home & Living",
+    "subcategory": "Kitchen",
+    "price": 10.99,
+    "discount": 15,
+    "currency": "USD",
+    "description": "High quality ceramic coffee mug by H&M Home, designed for everyday use.",
+    "rating": 4.8,
+    "reviews": 711,
+    "stock": 99,
+    "sku": "SKU-0098",
+    "colors": [
+      "White",
+      "Blue"
+    ],
+    "tags": [
+      "kitchen",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": false
+  },
+  {
+    "id": 99,
+    "brand": "Home Centre",
+    "name": "Ceramic Coffee Mug",
+    "category": "Home & Living",
+    "subcategory": "Kitchen",
+    "price": 14.99,
+    "discount": 20,
+    "currency": "USD",
+    "description": "High quality ceramic coffee mug by Home Centre, designed for everyday use.",
+    "rating": 4.9,
+    "reviews": 718,
+    "stock": 20,
+    "sku": "SKU-0099",
+    "colors": [
+      "Black",
+      "Silver"
+    ],
+    "tags": [
+      "kitchen",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": true,
+    "isNew": false
+  },
+  {
+    "id": 100,
+    "brand": "Muji",
+    "name": "Ceramic Coffee Mug",
+    "category": "Home & Living",
+    "subcategory": "Kitchen",
+    "price": 15.99,
+    "discount": 25,
+    "currency": "USD",
+    "description": "High quality ceramic coffee mug by Muji, designed for everyday use.",
+    "rating": 4.0,
+    "reviews": 725,
+    "stock": 27,
+    "sku": "SKU-0100",
+    "colors": [
+      "Black",
+      "Gold"
+    ],
+    "tags": [
+      "kitchen",
+      "popular",
+      "ecommerce"
+    ],
+    "isFeatured": false,
+    "isNew": true
+  },
+  {
+    "id": 101,
+    "sku": "SKU-0101",
+    "name": "Smart Watch",
+    "description": "string",
+    "category": "mobile",
+    "brand": "Amazfit",
+    "price": 1.0,
+    "currency": "USD",
+    "discount_percent": 20,
+    "stock": 70,
+    "rating": 5.0,
+    "tags": [
+      "string"
+    ],
+    "final_price": 0.8
+  }
+]
